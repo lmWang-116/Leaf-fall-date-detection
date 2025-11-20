@@ -1,9 +1,8 @@
-# Leaf-off-date-detection
-Code of Leaf-off date detection: four files are included.  
+# Leaf-fall-date-detection
+Code of Leaf fall date detection: four files are included.  
 _MODIS_dataprocess_new_ process the MOD13A1 data and result in high-quality EVI data.  
 _NTLdataprocess_ output the HDNTL data as daily file without missing days.  
-_leaf_off_examples_0904_ provides the general code for extracting FOD for a single pixel.  
-_leaf_off_cities_0904_ provides the general code for extracting FOD in city level.  
+_leaf_fall_detection_ provides the general code for extracting LFD.
 The input dataset includes MOD13A1 (https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/MOD13A1)
 and HDNTL (https://doi.org/10.5281/zenodo.14992989)  
 __Reference for methods__  
